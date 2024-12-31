@@ -1,0 +1,49 @@
+Name|Resources|Tech|Description
++Modern Armor+|Aluminum, Iron, Oil, Rubber|Synthetic Fibers|Devastatingly strong sub tank unit. 5 moves, +2 HP. Must be built in 2 parts. Part 1 upgrades to the modern armor+ at zero cost, if you have all 4 resources.
++Modern Trooper+|Aluminum, Coal, Iron, Uranium|Deployment|Devastatingly strong infantry unit. +2 HP, 23 airdrop range Must be built in 2 parts. Part 1 upgrades to the modern paratrooper+ at zero cost, if you have all 4 resources.
++Sub Cruise+|Coal, Oil, Rubber, Uranium|Lasers|Devastatingly strong sub cruise missile. Must be built in 2 parts. Part 1 upgrades to the sub cruise+ at zero cost, if you have all 4 resources.
+Battleship|Coal, Iron, Oil|Tactics|Very strong, expensive ship with high bombard power and submarine detection.
+ICBM|Aluminum, Coal, Uranium|Nuclear War|Nuke with unlimited range. Can't move from the city that builds it.
+Mech Infantry|Iron, Oil, Rubber|Modern Warfare|3 move, draftable unit with very high defense, and high attack.
+Modern Armor|Aluminum, Oil, Rubber|Alloys|4 move unit with excellent combat stats, and blitz.
+Stealth Bomber|Aluminum, Oil, Uranium|Modern Warfare|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Very high bombing strength.
+AEGIS Cruiser|Aluminum, Uranium|Seapower|Strong ship that can detect submarines, and can hold up to one tactical missile.
+Battalion|Coal, Oil|Occupation|Foot unit with below average strength but +5 HP. Fantastic at absorbing hits from cruise missiles, or absorbing defensive bombard when attacking.
+Bradley|Aluminum, Oil|Tactics|3 move offensive unit with blitz, strong attack, and below average defense.
+Chinook|Coal, Rubber|Transportation|Special helicopter. Holds only 3 units, but is not restricted to foot units. So tanks, cruise missiles, etc. Anything that can go in a galleon can go in a chinook.
+Combat Engineer|Rubber, Uranium|Global Conflict|Draftable foot unit with incredibly high attack. Low mobility, best used offensively when deployed from a helicopter, convoy, or transport ship.
+Destroyer|Coal, Iron|Warships|Fast ship with middling combat stats that can detect submarines.
+Fighter-Bomber|Oil, Uranium|Aerial Assault|Strong interceptor. Solid bombing strength. Puts up a good fight against enemy interceptors.
+Iron Dome|Iron, Rubber|Explosives|Air unit that soaks up bombard. +7HP. 2 anti-air. Stays in the city that builds it.
+Jet Fighter|Aluminum, Oil|Global Conflict|Exceptionally strong interceptor, with weak bombing strength. Excels at clearing out enemy interceptors
+Modern Paratrooper|Coal, Iron|Aerial Assault|2 move infantry unit that can airdrop. Fairly strong on attack and defense.
+Power Cruise|Aluminum, Iron|Global Conflict|Stronger and slightly more expensive version of the mini cruise.
+RPG Trooper|Iron, Uranium|Occupation|Mobile foot unit with built in anti-air. Great for defending cities from bombing, or for pillaging enemy land when the enemy has bombers. +1 HP
+Special Forces|Aluminum, Rubber|Seapower|Draftable foot unit with amphibious assault. Ignores terrain penalties (except mountains and volcanoes). Fairly strong on both offense and defense.
+Stealth Fighter|Aluminum, Uranium|Tactics|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Respectable bombing strength.
+Sub Cruise|Coal, Uranium|Explosives|Slightly more expensive, and slightly more powerful, cruise missile. Loads into offensive boats (Nuke sub, cruiser, etc) instead of into galleons/transports.
+Tactical Nuke|Iron, Uranium|Nuclear War|Nuke with 6 range that can be launched from boats.
+Attack Submarine|Oil|Warships|Cheap invisible ship, strong on attack, weak on defense. Can detect other submarines.
+Bomber|Oil|Explosives|Strong bombing power, but fairly expensive and very easy to intercept.
+Carrier|Iron|Warships|Holds up to 5 planes.
+Convoy|Coal|Occupation|Land transport unit. Cannot attack. You can load in up to 3 foot units. Travels 4 tiles per turn over any terrain. Units can defend even when loaded into it.
+Cruiser|Coal|Warships|Beefy, slightly slow ship. Holds up to one tactical missile (like a sub cruise).
+Fighter|Uranium|Munitions|Strong, cheap interceptor, can recon, and provides weak but pesky bombing runs.
+Helicopter|Oil|Transportation|Holds up to 4 foot units. +2 HP, so it's harder to intercept and can help absorb cruise missiles hits in recently captured cities.
+Infantry|Coal|Munitions|Early defender that's mobile and draftable.
+Ironclad|Iron|Cargo|Slow ship with decent attack strength and weak defense. Upgrades to destroyer.
+Mini Cruise|Aluminum|Explosives|Great for weakening entrenched positions. Strong in MP games with more players (due to a bug). Can be loaded into galleons/transports, but not into other ships.
+Nuclear Submarine|Uranium|Transportation|Invisible. Fairly weak combat stats (8 attack, 4 defense), but can hold up to 3 tactical missiles. Can detect other submarines.
+RADA Marine|Uranium|Wartime|Strong on offense, fairly weak on defense, amphibious assault.
+Radar Artillery|Iron|Cold War|Good range, and provides strong defensive bombard to units on top. Has lethal sea bombard.
+Roughrider|Iron|Tour Of Duty|Early 3 move attacker, chance to enslave worker from barbs
+Skirmishers|Rubber|Cold War|Early attacker that's mobile and draftable.
+Transport|Oil|Transportation|Holds 12 units and moves fast.
+Artillery||Wartime|Decent bombardment strength, and provides strong defensive bombard. Can be captured by the enemy.
+Flak||Cargo|Very high anti-air value, but only guards the tile that it's on. +1 HP.
+Frigate|||Simple wooden military ship. 6 moves, and can provide weak bombardment. Provides a somewhat strong defensive bombard.
+Insurgent||Aerial Assault|Mobile attacker that isn't cost efficient, but requires no res.
+Militia|||Very cheap cannon fodder. Good at soaking up cruise missile hits.
+Mobile SAM||Wartime|Air unit that can walk around on the ground. Will die if an enemy land unit touches it, but can intercept. Strong vs bombers, but will have difficulty killing more advanced planes.
+Partisan|||Draftable foot unit with a respectable attack value, and weak defense. Gives defensive bombard, which is very in the strong early game.
+Troop Ship||Cargo|Simple wooden transport. Fairly fast (5 moves) and can hold up to 6 units.
