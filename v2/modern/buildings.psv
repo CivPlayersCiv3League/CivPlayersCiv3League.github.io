@@ -1,0 +1,33 @@
+Name           |Gov |Wartime|Happy|GPT|ProdBonus|-Corruption|Tech         |Culture|Is Wonder|Resource|Note
+E Airport      |E   |Y      |1    |   |25       |           |             |       |         |        |
+E Granary      |E   |N      |1    |   |         |           |             |       |         |        |
+E Harbor       |E   |Y      |     |   |         |           |             |       |         |        |
+E Offshore     |E   |Y      |2    |   |         |           |             |       |         |        |
+T Granary      |T   |N      |     |   |         |           |             |       |         |        |
+T Temple       |T   |N      |3    |1  |         |           |             |2      |         |        |
+T Cathedral    |T   |Y      |3    |   |         |Y          |             |2      |         |        |
+O Granary      |O   |N      |1    |   |         |           |             |       |         |        |
+O Barracks     |O   |Y      |1    |1  |         |           |             |       |         |        |
+O Harbour      |O   |Y      |     |   |         |           |             |       |         |        |
+O Offshore     |O   |Y      |     |   |         |           |             |       |         |        |
+O Propaganda   |O   |Y      |     |   |         |           |             |17     |         |        |
+O CCTV         |O   |Y      |1    |2  |25       |           |             |       |         |        |
+T Harbor       |T   |Y      |     |   |         |           |             |       |         |        |
+T Offshore     |T   |Y      |     |   |         |           |             |       |         |        |
+T Coal Plant   |T   |N      |     |   |50       |           |             |       |         |Coal    |Cheaper than regular coal plant
+T Hydro Plant  |T   |N      |     |   |50       |           |             |       |         |        |Cheaper than regular hydro plant
+T Nuclear Plant|T   |N      |     |   |75       |           |Recycling    |       |         |Uranium |Cheaper than regular nuclear plant
+O Experiments  |O   |Y      |1    |2  |         |           |Ideology     |3      |Y        |        |Grants 2 free techs, built in 2 parts
+E Utopia       |E   |Y      |     |   |         |           |Hegemony     |3      |Y        |        |+3 happy in all cities
+F Granary      |F   |N      |     |   |         |           |             |       |         |        |
+F Market       |F   |N      |     |   |         |Y          |             |       |         |        |
+F Bank         |F   |N      |     |   |         |Y          |             |       |         |        |+50% science
+F Exchange     |F   |N      |2    |   |         |           |             |       |         |        |
+F Harbor       |F   |Y      |     |   |         |           |             |1      |         |        |
+F Offshore     |F   |Y      |     |   |         |           |             |       |         |        |
+O Subjugation  |O   |Y      |     |   |         |           |Hegemony     |1      |Y        |        |Modern trooper+ per 5 turns, allows healing in enemy territory, +1 ship moves, acts as hospital
+E Statue       |E   |Y      |3    |   |         |           |Ideology     |1      |Y        |        |Colossus effect
+F Fighters     |F   |Y      |     |   |         |           |Ideology     |2      |Y        |        |Fighters per 5 turns
+T Guard        |T   |Y      |     |7  |         |           |Ideology     |3      |Y        |        |Marine per 4 turns
+F Prosperity   |F   |Y      |     |   |         |           |Hegemony     |2      |Y        |        |Longevity effect, wall street effect, +50% science research in city
+T Service      |T   |Y      |     |10 |         |           |Hegemony     |1      |Y        |        |Worker per 2 turns, +50% science output
