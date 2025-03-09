@@ -14,8 +14,8 @@ Chinook|Coal, Rubber|Transportation|Special helicopter. Holds only 3 units, but 
 Combat Engineer|Rubber, Uranium|Global Conflict|Draftable foot unit with incredibly high attack. Low mobility, best used offensively when deployed from a helicopter, convoy, or transport ship.
 Destroyer|Coal, Iron|Warships|Fast ship with middling combat stats that can detect submarines. Has blitz. Has defensive bombard, but can't bombard offensively
 Fighter-Bomber|Oil, Uranium|Aerial Assault|Strong interceptor. Solid bombing strength. Puts up a good fight against enemy interceptors.
-Iron Dome|Iron|Explosives|Air unit that soaks up bombard. +7HP. 2 anti-air. Stays in the city that builds it.
-Jet Fighter|Aluminum, Oil|Global Conflict|Exceptionally strong interceptor, with weak bombing strength. Excels at clearing out enemy interceptors
+Iron Dome|Iron|Protectio|Air unit that soaks up bombard. +7HP. 2 anti-air. Stays in the city that builds it.
+Jet Fighter|Aluminum, Oil|Protection|Exceptionally strong interceptor, with weak bombing strength. Excels at clearing out enemy interceptors
 Modern Paratrooper|Coal, Iron|Aerial Assault|2 move infantry unit that can airdrop. Fairly strong on attack and defense.
 Power Cruise|Aluminum, Iron|Global Conflict|Stronger and slightly more expensive version of the mini cruise.
 RPG Trooper|Iron, Uranium|Occupation|Mobile foot unit with built in anti-air. Great for defending cities from bombing, or for pillaging enemy land when the enemy has bombers. +1 HP
@@ -26,7 +26,7 @@ Tactical Nuke|Iron, Uranium|Nuclear War|Nuke with 6 range that can be launched f
 Attack Submarine|Oil|Warships|Cheap invisible ship, strong on attack, weak on defense. Can detect other submarines.
 Bomber|Oil|Explosives|Strong bombing power, but fairly expensive and very easy to intercept.
 Carrier|Iron|Warships|Holds up to 4 planes. Can recon up to 4 tiles away.
-Convoy|Coal|Occupation|Land transport unit. Cannot attack. You can load in up to 3 foot units. Travels 4 tiles per turn over any terrain. Units can defend even when loaded into it.
+Convoy|Coal|Transportation|Land transport unit. Cannot attack. You can load in up to 3 foot units. Travels 4 tiles per turn over any terrain. Units can defend even when loaded into it.
 Cruiser|Coal|Warships|Beefy, slightly slow ship. Holds up to one tactical missile (like a sub cruise).
 Fighter|Uranium|Munitions|Strong, cheap interceptor, can recon, and provides weak but pesky bombing runs.
 Helicopter|Oil|Transportation|Holds up to 4 foot units. +2 HP, so it's harder to intercept and can help absorb cruise missiles hits in recently captured cities.
