@@ -2,7 +2,7 @@ Name|Resources|Tech|Description
 Laser Tank|Aluminum, Oil, Rubber|Death Robots|Devastatingly strong tank unit. 4 moves, +1 HP. 
 Super Trooper|Coal, Iron, Uranium|Gene Splicing|Devastatingly strong infantry unit. +2 HP, 23 airdrop range 
 Super Sub Cruise|Coal, Rubber, Uranium|Lasers|Devastatingly strong sub cruise missile. 6 range.
-Battleship|Coal, Iron, Oil|Tactics|Very strong, expensive ship with high bombard power and submarine detection.
+Battleship|Coal, Iron, Oil|Seapower|Very strong, expensive ship with high bombard power and submarine detection.
 ICBM|Aluminum, Coal, Uranium|Nuclear War|Nuke with unlimited range. Can't move from the city that builds it.
 Mech Infantry|Oil, Rubber|Computers|3 move, draftable unit with very high defense, and high attack.
 Stealth Bomber|Aluminum, Oil, Uranium|Computers|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Very high bombing strength.
@@ -18,7 +18,7 @@ Jet Fighter|Aluminum, Oil|Protection|Exceptionally strong interceptor, with weak
 Modern Paratrooper|Coal, Iron|Commandos|2 move infantry unit that can airdrop. Strong on attack and defense.
 Power Cruise|Aluminum, Iron|Thermobarics|Stronger and slightly more expensive version of the mini cruise.
 RPG Trooper|Iron, Uranium|Combat Stims|Mobile foot unit with built in anti-air. Great for defending cities from bombing, or for pillaging enemy land when the enemy has bombers. +1 HP
-Special Forces|Aluminum, Rubber|Seapower|Draftable foot unit with amphibious assault. Ignores terrain penalties (except mountains and volcanoes). Fairly strong on both offense and defense.
+Special Forces|Aluminum, Rubber|Recycling|Draftable foot unit with amphibious assault. Ignores terrain penalties (except mountains and volcanoes). Fairly strong on both offense and defense.
 Stealth Fighter|Aluminum, Uranium|Tactics|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Respectable bombing strength.
 Sub Cruise|Coal, Uranium|Explosives|Slightly more expensive, and slightly more powerful, cruise missile. Loads into offensive boats (Nuke sub, cruiser, etc) instead of into galleons/transports.
 Tactical Nuke|Iron, Uranium|Nuclear War|Nuke with 6 range that can be launched from boats.
@@ -31,7 +31,7 @@ Destroyer|Oil|Warships|Fast ship with decently strong combat stats that can dete
 Helicopter|Oil|Transportation|Holds up to 4 foot units. +2 HP, so it's harder to intercept and can help absorb cruise missiles hits in recently captured cities.
 Infantry|Coal|Munitions|Early defender that's mobile and draftable.
 Mini Cruise|Aluminum|Explosives|Great for weakening entrenched positions. Strong in MP games with more players (due to a bug). Can be loaded into galleons/transports/pirate ships, but not into other boats.
-Nuclear Submarine|Uranium|Transportation|Invisible. Fairly weak combat stats (8 attack, 4 defense), but can hold up to 3 tactical missiles. Can detect other submarines.
+Nuclear Submarine|Uranium|Warships|Invisible. Fairly weak combat stats (8 attack, 4 defense), but can hold up to 3 tactical missiles. Can detect other submarines.
 RAD Marine|Uranium|Wartime|Strong on offense, fairly weak on defense, amphibious assault.
 Radar Artillery|Iron|Cold War|Good range, and provides strong defensive bombard to units on top. Has lethal sea bombard and can detect invisible units.
 Roughrider|Iron|Tour Of Duty|Early 3 move attacker, blitz, chance to enslave worker when it wins combat.
