@@ -1,23 +1,23 @@
 Name|Resources|Tech|Description
-Megadropper|Iron, Oil|Alloys|Chinook with 6 carrying capacity, and 19 range. 
-Laser Tank|Aluminum, Oil, Rubber|Synthetic Fibers|Devastatingly strong tank unit. 4 moves, +1 HP. 
-Super Trooper|Coal, Iron, Uranium|Alloys|Devastatingly strong infantry unit. +2 HP, 23 airdrop range 
+Laser Tank|Aluminum, Oil, Rubber|Death Robots|Devastatingly strong tank unit. 4 moves, +1 HP. 
+Super Trooper|Coal, Iron, Uranium|Gene Splicing|Devastatingly strong infantry unit. +2 HP, 23 airdrop range 
 Super Sub Cruise|Coal, Rubber, Uranium|Lasers|Devastatingly strong sub cruise missile. 6 range.
 Battleship|Coal, Iron, Oil|Tactics|Very strong, expensive ship with high bombard power and submarine detection.
 ICBM|Aluminum, Coal, Uranium|Nuclear War|Nuke with unlimited range. Can't move from the city that builds it.
-Mech Infantry|Oil, Rubber|Modern Warfare|3 move, draftable unit with very high defense, and high attack.
-Stealth Bomber|Aluminum, Oil, Uranium|Modern Warfare|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Very high bombing strength.
+Mech Infantry|Oil, Rubber|Computers|3 move, draftable unit with very high defense, and high attack.
+Stealth Bomber|Aluminum, Oil, Uranium|Computers|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Very high bombing strength.
+Megadropper|Iron, Oil|Gene Splicing|Chinook with 6 carrying capacity, and 19 range. 
 AEGIS Cruiser|Aluminum, Uranium|Seapower|Strong ship that can detect submarines, and can hold up to one tactical missile. Has stealth attack, so it will target the weakest unit in the stack. Lethal land/sea bombardment.
-Battalion|Coal, Oil|Occupation|Foot unit with middling stats, but +3 HP. Great at absorbing hits from cruise missiles, or absorbing defensive bombard when attacking.
+Battalion|Coal, Oil|Combat Stims|Foot unit with middling stats, but +3 HP. Great at absorbing hits from cruise missiles, or absorbing defensive bombard when attacking.
 Bradley|Aluminum, Oil|Tactics|3 move offensive unit with blitz, strong attack, and mediocre defense.
 Chinook|Coal, Rubber|Transportation|Special helicopter. Holds only 3 units, but is not restricted to foot units. So tanks, cruise missiles, etc. Anything that can go in a galleon can go in a chinook.
-Combat Engineer|Rubber, Uranium|Global Conflict|Draftable foot unit with incredibly high attack. Low mobility, best used offensively when deployed from a helicopter, convoy, or transport ship.
-Fighter-Bomber|Oil, Uranium|Aerial Assault|Strong interceptor. Solid bombing strength. Puts up a good fight against enemy interceptors.
+Combat Engineer|Rubber, Uranium|Thermobarics|Draftable foot unit with incredibly high attack. Low mobility, best used offensively when deployed from a helicopter, convoy, or transport ship.
+Fighter-Bomber|Oil, Uranium|Thermobarics|Strong interceptor. Solid bombing strength. Puts up a good fight against enemy interceptors.
 Iron Dome|Iron|Protection|Air unit that soaks up bombard. +7HP. 2 anti-air. Stays in the city that builds it.
 Jet Fighter|Aluminum, Oil|Protection|Exceptionally strong interceptor, with weak bombing strength. Excels at clearing out enemy interceptors
-Modern Paratrooper|Coal, Iron|Aerial Assault|2 move infantry unit that can airdrop. Strong on attack and defense.
-Power Cruise|Aluminum, Iron|Global Conflict|Stronger and slightly more expensive version of the mini cruise.
-RPG Trooper|Iron, Uranium|Occupation|Mobile foot unit with built in anti-air. Great for defending cities from bombing, or for pillaging enemy land when the enemy has bombers. +1 HP
+Modern Paratrooper|Coal, Iron|Commandos|2 move infantry unit that can airdrop. Strong on attack and defense.
+Power Cruise|Aluminum, Iron|Thermobarics|Stronger and slightly more expensive version of the mini cruise.
+RPG Trooper|Iron, Uranium|Combat Stims|Mobile foot unit with built in anti-air. Great for defending cities from bombing, or for pillaging enemy land when the enemy has bombers. +1 HP
 Special Forces|Aluminum, Rubber|Seapower|Draftable foot unit with amphibious assault. Ignores terrain penalties (except mountains and volcanoes). Fairly strong on both offense and defense.
 Stealth Fighter|Aluminum, Uranium|Tactics|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Respectable bombing strength.
 Sub Cruise|Coal, Uranium|Explosives|Slightly more expensive, and slightly more powerful, cruise missile. Loads into offensive boats (Nuke sub, cruiser, etc) instead of into galleons/transports.
@@ -40,7 +40,7 @@ Transport|Iron|Transportation|Holds 12 units and moves fast.
 Artillery||Wartime|Decent bombardment strength, and provides strong defensive bombard. Has lethal sea bombard. Can be captured by the enemy.
 Flak||Cargo|Very high anti-air value, but only guards the tile that it's on. +1 HP. 
 Frigate|||Simple wooden military ship. 6 moves, and can provide weak bombardment. Provides a somewhat strong defensive bombard. Upgrades to destroyer.
-Insurgent||Aerial Assault|Mobile attacker that isn't cost efficient, but requires no res.
+Insurgent||Commandos|Mobile attacker that isn't cost efficient, but requires no res.
 Pirate||Protection|Scouting ship. Carries 2 units, has the "radar" ability, and can enslave more pirates if it wins combat. Does not get the wartime shield bonus when you're building it
 Militia|||Very cheap cannon fodder. Good at soaking up cruise missile hits.
 Mobile SAM||Wartime|Air unit that can walk around on the ground. Will die if an enemy land unit touches it, but can intercept. Strong vs bombers, but will have difficulty killing more advanced planes.
