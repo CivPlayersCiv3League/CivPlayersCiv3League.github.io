@@ -1,20 +1,19 @@
 Name|Resources|Tech|Description
 Megadropper|Iron, Oil|Alloys|Chinook with 6 carrying capacity, and 19 range. 
-Death Robot|Aluminum, Oil, Rubber|Synthetic Fibers|Devastatingly strong tank unit. 4 moves, +1 HP. 
+Laser Tank|Aluminum, Oil, Rubber|Synthetic Fibers|Devastatingly strong tank unit. 4 moves, +1 HP. 
 Super Trooper|Coal, Iron, Uranium|Alloys|Devastatingly strong infantry unit. +2 HP, 23 airdrop range 
-Super Sub Cruise|Coal, Rubber, Uranium|Lasers|Devastatingly strong sub cruise missile. 
+Super Sub Cruise|Coal, Rubber, Uranium|Lasers|Devastatingly strong sub cruise missile. 6 range.
 Battleship|Coal, Iron, Oil|Tactics|Very strong, expensive ship with high bombard power and submarine detection.
 ICBM|Aluminum, Coal, Uranium|Nuclear War|Nuke with unlimited range. Can't move from the city that builds it.
 Mech Infantry|Oil, Rubber|Modern Warfare|3 move, draftable unit with very high defense, and high attack.
 Stealth Bomber|Aluminum, Oil, Uranium|Modern Warfare|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Very high bombing strength.
-AEGIS Cruiser|Aluminum, Uranium|Seapower|Strong ship that can detect submarines, and can hold up to one tactical missile.
-Battalion|Coal, Oil|Occupation|Foot unit with middling stats, but +3 HP. Fantastic at absorbing hits from cruise missiles, or absorbing defensive bombard when attacking.
+AEGIS Cruiser|Aluminum, Uranium|Seapower|Strong ship that can detect submarines, and can hold up to one tactical missile. Has stealth attack, so it will target the weakest unit in the stack
+Battalion|Coal, Oil|Occupation|Foot unit with middling stats, but +3 HP. Great at absorbing hits from cruise missiles, or absorbing defensive bombard when attacking.
 Bradley|Aluminum, Oil|Tactics|3 move offensive unit with blitz, strong attack, and mediocre defense.
 Chinook|Coal, Rubber|Transportation|Special helicopter. Holds only 3 units, but is not restricted to foot units. So tanks, cruise missiles, etc. Anything that can go in a galleon can go in a chinook.
 Combat Engineer|Rubber, Uranium|Global Conflict|Draftable foot unit with incredibly high attack. Low mobility, best used offensively when deployed from a helicopter, convoy, or transport ship.
-Destroyer|Coal, Iron|Warships|Fast ship with middling combat stats that can detect submarines. Has blitz. Has defensive bombard, but can't bombard offensively
 Fighter-Bomber|Oil, Uranium|Aerial Assault|Strong interceptor. Solid bombing strength. Puts up a good fight against enemy interceptors.
-Iron Dome|Iron|Protectio|Air unit that soaks up bombard. +7HP. 2 anti-air. Stays in the city that builds it.
+Iron Dome|Iron|Protection|Air unit that soaks up bombard. +7HP. 2 anti-air. Stays in the city that builds it.
 Jet Fighter|Aluminum, Oil|Protection|Exceptionally strong interceptor, with weak bombing strength. Excels at clearing out enemy interceptors
 Modern Paratrooper|Coal, Iron|Aerial Assault|2 move infantry unit that can airdrop. Fairly strong on attack and defense.
 Power Cruise|Aluminum, Iron|Global Conflict|Stronger and slightly more expensive version of the mini cruise.
@@ -23,15 +22,14 @@ Special Forces|Aluminum, Rubber|Seapower|Draftable foot unit with amphibious ass
 Stealth Fighter|Aluminum, Uranium|Tactics|Stealth plane (15% chance to be intercepted instead of 50%). Can do precision bombing. Respectable bombing strength.
 Sub Cruise|Coal, Uranium|Explosives|Slightly more expensive, and slightly more powerful, cruise missile. Loads into offensive boats (Nuke sub, cruiser, etc) instead of into galleons/transports.
 Tactical Nuke|Iron, Uranium|Nuclear War|Nuke with 6 range that can be launched from boats.
-Attack Submarine|Oil|Warships|Cheap invisible ship, strong on attack, weak on defense. Can detect other submarines.
 Bomber|Oil|Explosives|Strong bombing power, but fairly expensive and very easy to intercept.
 Carrier|Iron|Warships|Holds up to 4 planes. Can recon up to 4 tiles away.
 Convoy|Coal|Transportation|Land transport unit. Cannot attack. You can load in up to 3 foot units. Travels 4 tiles per turn over any terrain. Units can defend even when loaded into it.
 Cruiser|Coal|Warships|Beefy, slightly slow ship. Holds up to one tactical missile (like a sub cruise).
 Fighter|Uranium|Munitions|Strong, cheap interceptor, can recon, and provides weak but pesky bombing runs.
+Destroyer|Oil|Warships|Fast ship with middling combat stats that can detect submarines. Has blitz. Has defensive bombard, but can't bombard offensively
 Helicopter|Oil|Transportation|Holds up to 4 foot units. +2 HP, so it's harder to intercept and can help absorb cruise missiles hits in recently captured cities.
 Infantry|Coal|Munitions|Early defender that's mobile and draftable.
-Ironclad|Iron|Cargo|Slow ship with decent attack strength and weak defense. Upgrades to destroyer.
 Mini Cruise|Aluminum|Explosives|Great for weakening entrenched positions. Strong in MP games with more players (due to a bug). Can be loaded into galleons/transports, but not into other ships.
 Nuclear Submarine|Uranium|Transportation|Invisible. Fairly weak combat stats (8 attack, 4 defense), but can hold up to 3 tactical missiles. Can detect other submarines.
 RADA Marine|Uranium|Wartime|Strong on offense, fairly weak on defense, amphibious assault.
@@ -43,6 +41,7 @@ Artillery||Wartime|Decent bombardment strength, and provides strong defensive bo
 Flak||Cargo|Very high anti-air value, but only guards the tile that it's on. +1 HP. 
 Frigate|||Simple wooden military ship. 6 moves, and can provide weak bombardment. Provides a somewhat strong defensive bombard. Upgrades to destroyer.
 Insurgent||Aerial Assault|Mobile attacker that isn't cost efficient, but requires no res.
+Pirate||Protection|Scouting ship. Carries 2 units, has the "radar" ability, and can enslave more pirates if it wins combat. Does not get the wartime shield bonus when you're building it
 Militia|||Very cheap cannon fodder. Good at soaking up cruise missile hits.
 Mobile SAM||Wartime|Air unit that can walk around on the ground. Will die if an enemy land unit touches it, but can intercept. Strong vs bombers, but will have difficulty killing more advanced planes.
 Partisan|||Draftable foot unit with a respectable attack value, and weak defense. Gives defensive bombard, which is very in the strong early game.
